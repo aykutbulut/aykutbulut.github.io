@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aykut&#39;s blog</title>
-    <description>This is my personal blog about software, math, tech and other stuff.
+    <title>Aykut's Homepage</title>
+    <description>This is my personal webpage.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 May 2016 02:24:46 -0400</pubDate>
-    <lastBuildDate>Sun, 29 May 2016 02:24:46 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Oct 2018 04:50:07 -0400</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 04:50:07 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Building COIN-OR Projects</title>
+        <description>&lt;p&gt;I will explain how I build/compile COIR-OR Projects. This was something I
+wanted to blog for a long time. COIN-OR project structures might seem confusing
+at first. Moreover I think visibility of the tutorials on this topic is somehow
+limited. It is also a good opporunity to give jenkyll a shot.&lt;/p&gt;
+
+&lt;h2 id=&quot;simple-case&quot;&gt;Simple Case&lt;/h2&gt;
+
+&lt;p&gt;If you checked out project from COIN-OR svn servers then all you need to do is
+the usual configure and make install. Assume you downloaded Symphony, to build go the Symphony directory and run ./confiugre and make install. This will install Symphony to the current directory, symhony directory. It will create bin, include and lib directories. Bin will have the executable binaries, Symphony and its dependencies CLP, etc. If you want to install somewhere else you can use prefix option with configure, i.e., ./configure –prefix=/home/aykut/symphony. This will install bin, include and lib directories into /home/aykut/symphony.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-does-simple-case-works&quot;&gt;How does simple case works?&lt;/h2&gt;
+
+&lt;h2 id=&quot;i-already-have-dependencies-i-do-not-want-to-install-them-again&quot;&gt;I already have dependencies, I do not want to install them again.&lt;/h2&gt;
+
+&lt;h2 id=&quot;how-to-build-coin-or-projects-clones-from-git&quot;&gt;How to build COIN-OR projects clones from git&lt;/h2&gt;
+
+&lt;p&gt;COIN-OR projects live in SVN repositories in [COIN-OR servers][coinor-svn].&lt;/p&gt;
+
+&lt;p&gt;Nowadays they livein both  and
+I am new to blogging but I plan to post to this site from time to time. Keep checking for the updates. For more information about me, you can check my &lt;a href=&quot;https://coral.ise.lehigh.edu/aykut&quot;&gt;webpage&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 27 Jun 2016 07:56:00 -0400</pubDate>
+        <link>http://localhost:4000/jekyll/update/2016/06/27/building-coinor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/06/27/building-coinor.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Hello World!</title>
@@ -16,8 +51,8 @@
 
 </description>
         <pubDate>Sun, 29 May 2016 00:52:57 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/05/29/hello-world.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/05/29/hello-world.html</guid>
+        <link>http://localhost:4000/jekyll/update/2016/05/29/hello-world.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/05/29/hello-world.html</guid>
         
         
         <category>jekyll</category>
