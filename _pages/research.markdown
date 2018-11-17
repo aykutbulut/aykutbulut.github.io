@@ -55,12 +55,12 @@ parallel. Here is our [report][sinco-report].
 [inverse-techreport]: https://ise.lehigh.edu/content/complexity-inverse-milp
 
 [comment]: other files
-[sinco-report]: {{ site.url }}/static_files/IE495_report_aykut_murat.pdf
+[sinco-report]: http://aykutbulut.github.io/static_files/IE495_report_aykut_murat.pdf
 
 [comment]: links to talks
-[informs2017]:  {{ site.url }}/static_files/informs2017.pdf
-[ismp2015]:     {{ site.url }}/static_files/ismp2015.pdf
-[informs2014a]: {{ site.url }}/static_files/informs2014a.pdf
-[informs2014t]: {{ site.url }}/static_files/informs2014t.pdf
-[informs2013]:  {{ site.url }}/static_files/informs2013.pdf
-[informs2012]:  {{ site.url }}/static_files/informs2012.pdf
+[informs2017]:  http://aykutbulut.github.io/static_files/informs2017.pdf
+[ismp2015]:     http://aykutbulut.github.io/static_files/ismp2015.pdf
+[informs2014a]: http://aykutbulut.github.io/static_files/informs2014a.pdf
+[informs2014t]: http://aykutbulut.github.io/static_files/informs2014t.pdf
+[informs2013]:  http://aykutbulut.github.io/static_files/informs2013.pdf
+[informs2012]:  http://aykutbulut.github.io/static_files/informs2012.pdf
