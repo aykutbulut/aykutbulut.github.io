@@ -12,10 +12,6 @@ supervision of [Ted Ralphs][ted-mainpage]. My thesis is on solving discrete
 conic optimization problems. You can get a copy of my thesis from
 [here][phd-thesis].
 
-I am interested in computing, from the basic
-[theory of computability][comp-theory] to computational complexity and to all
-the way up to modern software engineering practices.
-
 [lehigh]: http://lehigh.edu
 [comp-theory]: https://en.wikipedia.org/wiki/Computability_theory
 [github-aykut]: https://github.com/aykutbulut
