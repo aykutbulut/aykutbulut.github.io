@@ -37,6 +37,9 @@ Optimization Methods in Machine Learning class project with [Murat Mut][murat-li
 implemented a portion of algorithm proposed by [Scheinberg][scheinberg-coral] and Rish in
 parallel. Here is our [report][sinco-report].
 
+One of my Ph.D. qualifying exam questions was on Simple Assembly Line Balancing
+Problem. You get get my report from [here][salbp-report] and 
+[SALBP solver][salbp-solver] I wrote.
 
 [comment]: links to other webpages
 [lehigh]: http://lehigh.edu
@@ -56,6 +59,8 @@ parallel. Here is our [report][sinco-report].
 
 [comment]: other files
 [sinco-report]: http://aykutbulut.github.io/static_files/IE495_report_aykut_murat.pdf
+[salbp-report]: http://aykutbulut.github.io/static_files/SALBP-report.pdf
+[salbp-solver]: http://aykutbulut.github.io/static_files/salbp-1.0.zip
 
 [comment]: links to talks
 [informs2017]:  http://aykutbulut.github.io/static_files/informs2017.pdf
