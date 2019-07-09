@@ -17,7 +17,7 @@ conic optimization problems. You can get a copy of my thesis from
 [github-aykut]: https://github.com/aykutbulut
 [ted-mainpage]: http://coral.ie.lehigh.edu/~ted/
 [mathworks]: https://www.mathworks.com/
-[coin-or-mainpage]: https://www.mathworks.com/
+[coin-or-mainpage]: https://www.coin-or.org/
 [coin-or-git]: https://github.com/coin-or
 [aykut-git]: https://github.com/aykutbulut
 [disco-git]: https://github.com/coin-or/DisCO
