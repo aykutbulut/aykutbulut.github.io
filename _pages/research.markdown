@@ -4,18 +4,29 @@ title: Research
 permalink: /research/
 ---
 
-I am interested in computing, from the basic
-[theory of computability][comp-theory] to computational complexity and to all the
-way up to modern software engineering practices. I produce software to solve
-discrete optimization problems. See my [github page][github-aykut] for my
+I am interested in computing, from the basic [theory of
+computability][comp-theory] to computational complexity and all the way up
+to modern software engineering practices. Currently I work on [Chrome][chrome]
+browser backend. Previously, I worked on [MATLAB Optimization
+Toolbox][optim-toolbox] [intlinprog][intlinprog] solver and led the
+development of [coneprog][coneprog] solver.
+
+During grad school, I developed software to solve mixed integer second order
+conic optimization problem (MISOCP). See my [github page][github-aykut] for my
 projects.
 
 List of Publications
 --------------------
 
-* A. Bulut. ["Computational Methods for Discrete Conic Optimization Problems"][phd-thesis]. Ph.D. thesis. Lehigh University, 2018.
-* A. Bulut. T. Ralphs, [On the Complexity of Inverse MILP][inverse-techreport]. ISE Technical Report 15T-001. Lehigh University, March 2015.
-* A. Bulut. ["Order Driven Flexible Shop Management"][master-thesis]. M.S. thesis. Middle East Technical University, 2011.
+* Bulut, Aykut and Ralphs, Ted K. On the Complexity of Inverse Mixed Integer
+  Linear Optimization. SIAM Journal on Optimization 2021 31:4, 3014-3043.
+  [[SIAM link]][inverse-siam] [[preprint]][inverse-arxiv]
+
+* Bulut, Aykut. Computational Methods for Discrete Conic Optimization
+  Problems. Ph.D. thesis. Lehigh University, 2018. [[link]][phd-thesis]
+
+* A. Bulut. Order Driven Flexible Shop Management. M.S. thesis. Middle East
+  Technical University, 2011. [[link]][master-thesis]
 
 Selected Presentations
 ----------------------
@@ -46,6 +57,13 @@ Problem. You get get my report from [here][salbp-report] and
 [comp-theory]: https://en.wikipedia.org/wiki/Computability_theory
 [murat-linkedin]: https://www.linkedin.com/in/murat-mut-060b8348
 [scheinberg-coral]: https://coral.ise.lehigh.edu/katyas/
+[chrome]: https://www.google.com/chrome/
+[intlinprog]: https://www.mathworks.com/help/optim/ug/intlinprog.html
+[coneprog]: https://www.mathworks.com/help/optim/ug/coneprog.html
+[mathworks]: https://www.mathworks.com/
+[optim-toolbox]: https://www.mathworks.com/products/optimization.html
+[inverse-siam]: https://epubs.siam.org/doi/10.1137/20M1377369
+[inverse-arxiv]: https://arxiv.org/abs/2104.09002
 
 [comment]: links to github pages
 [github-aykut]: https://github.com/aykutbulut
