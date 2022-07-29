@@ -7,7 +7,7 @@ permalink: /
 I am a software engineer at [Google][google]. Previously I worked on
 [Mathworks][mathworks] as a part of [Optimization Toolbox][optim-toolbox]
 development. I am a member of [COIN-OR Foundation][coin-or-mainpage] and current
-maintainer of [DisCO solver][disco-git] project. I recived my Ph.D. from
+maintainer of [DisCO solver][disco-git] project. I received my Ph.D. from
 [Industrial and Systems Engineering][ise-lehigh] at [Lehigh University][lehigh]
 in 2018 under supervision of [Ted Ralphs][ted-mainpage]. My thesis is on
 solving discrete conic optimization problems. You can get a copy of my thesis
