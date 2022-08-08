@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-I am a software engineer at [Google][google]. Previously I worked on
+I am a software engineer at [Google][google]. Previously I worked at
 [Mathworks][mathworks] as a part of [Optimization Toolbox][optim-toolbox]
 development. I am a member of [COIN-OR Foundation][coin-or-mainpage] and current
 maintainer of [DisCO solver][disco-git] project. I received my Ph.D. from
